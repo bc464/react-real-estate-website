@@ -1,5 +1,7 @@
 .h-wrapper {
   color: white;
+  width: 90%;
+  margin: 0 auto;
 }
 .h-container {
   justify-content: space-between;
